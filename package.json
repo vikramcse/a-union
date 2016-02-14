@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/vikramcse/a-union.git"
   },
-  "keywords": [],
+  "keywords": ["array", "union", "combine", "unique", "merge"],
   "author": "Vikram <vikramcse.10@gmail.com>",
   "license": "ISC",
   "bugs": {
